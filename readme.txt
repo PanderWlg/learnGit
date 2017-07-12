@@ -5,3 +5,4 @@ Creating a new branch is quick AND simple.
 dev change
 dev change2
 dev change3
+dev change4
